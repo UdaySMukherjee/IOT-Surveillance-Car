@@ -4,6 +4,8 @@ Build your own surveillance car with an ESP32-CAM, L298N motor driver, and BO mo
 
 ## YouTube Link: https://youtu.be/k-8vydz2bD8
 
+[img]https://i.imgur.com/qedpKgn.png[/img]
+
 # Materials:
 ## ESP32-CAM : https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-ov2640-camera-module-2mp/
 ## L298N Motor Driver : https://robu.in/product/l298n-2a-based-motor-driver-module-good-quality/
